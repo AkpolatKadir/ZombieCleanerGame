@@ -1,3 +1,4 @@
 # ZombieCleanerGame
 
-![alt text](https://github.com/AkpolatKadir/ZombieCleanerGame/tree/master/ScreenShots/level2.png?raw=true "SS")
+Created in Unity. 2D topdown shooter survival zombie game. Enjoy! 
+(Screenshots are reachable in the ScreenShots folder.)
