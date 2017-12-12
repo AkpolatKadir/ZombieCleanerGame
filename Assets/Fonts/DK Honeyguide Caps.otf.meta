@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: e63215368f1348348b58213b155eda45
+timeCreated: 1510947647
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: DK Honeyguide Caps
+  fontNames:
+  - DK Honeyguide Caps
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
